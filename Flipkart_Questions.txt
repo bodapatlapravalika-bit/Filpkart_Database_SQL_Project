@@ -1,0 +1,16 @@
+1. Retrieve all products along with their total sales revenue from completed orders.
+2. List all customers and the products they have purchased, showing only those who have ordered more than two products.
+3. Find the total amount spent by customers in 'Gujarat' who have ordered products priced greater than 10,000.
+4. Retrieve the list of all orders that have not yet been shipped.
+5. Find the average order value per customer for orders with a quantity of more than 5.
+6. Get the top 5 customers by total spending on 'Accessories'.
+7. Retrieve a list of customers who have not made any payment for their orders.
+8. Find the most popular product based on total quantity sold in 2023.
+9. List all orders that were cancelled and the reason for cancellation (if available).
+10. Retrieve the total quantity of products sold by category in 2023.
+11. Get the count of returned orders by shipping provider in 2023.
+12. Show the total revenue generated per month for the year 2023.
+13. Find the customers who have made the most purchases in a single month.
+14. Retrieve the number of orders made per product category in 2023 and order by total quantity sold.
+15. List the products that have never been ordered (use LEFT JOIN between products and sales).
+
